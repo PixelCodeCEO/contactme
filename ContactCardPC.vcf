@@ -1,10 +1,9 @@
 BEGIN:VCARD
+VERSION:3.0
 N:Peck;Mark;;;
-FN:PixelCode
-ORG:PixelCode;
-EMAIL;type=INTERNET;type=WORK;type=pref:mark@echosocialapp.com
-TEL;type=CELL;type=VOICE;type=pref:9412952729
-item1.URL;type=pref:echosocialapp.com
-item1.X-ABLabel:_$!<HomePage>!$_
-X-ABShowAs:COMPANY
+FN:Mark Peck
+TITLE:Founder and Co-Owner of Pixelcode
+TEL;TYPE=cell:+19412952729
+EMAIL:mark@echosocialapp.com
+URL:https://echosocialapp.com
 END:VCARD

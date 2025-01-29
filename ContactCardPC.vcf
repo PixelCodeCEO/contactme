@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 15.2//EN
+N:Peck;Mark;;;
+FN:PixelCode
+ORG:PixelCode;
+EMAIL;type=INTERNET;type=WORK;type=pref:mark@echosocialapp.com
+TEL;type=CELL;type=VOICE;type=pref:9412952729
+item1.URL;type=pref:echosocialapp.com
+item1.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+END:VCARD
